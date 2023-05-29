@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543804474705",
+    "project_id": "ventspilspolice",
+    "storage_bucket": "ventspilspolice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543804474705:android:58f6bc8f47dce997d2ff70",
+        "android_client_info": {
+          "package_name": "com.policeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543804474705-99cnr02ue5790alphe1ne66jj1tkrj6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Firebase api key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543804474705-4nodanvl8k2397811uml37b446ubvda7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
